@@ -71,12 +71,12 @@ header h1 {
 }
 
 .button button:hover {
-  box-shadow: 0 2px var(--grey);
+  box-shadow: 0 2px gray;
   top: -2px;
 }
 
 .button button:active {
-  box-shadow: 0 0px var(--grey);
+  box-shadow: 0 0px gray;
   top: 0;
 }
 
